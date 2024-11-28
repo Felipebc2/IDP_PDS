@@ -1,6 +1,6 @@
 # **Impress Express - Documento do Projeto**
 
-## **Quem Somos**
+## **Sobre**
 
 Impress Express é uma startup fundada por dois estudantes do IDP, Felipe Castro e Arthur Torquato. Com a missão de facilitar e democratizar a impressão 3D para todos, acreditamos no poder da tecnologia para transformar ideias em realidade e estamos comprometidos em fornecer acesso fácil e acessível à impressão 3D.
 
