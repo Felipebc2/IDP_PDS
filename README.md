@@ -46,17 +46,12 @@ Nosso público-alvo inclui entusiastas de tecnologia, designers, empresas que bu
 3. Garantir suporte multiplataforma (Android e iOS) utilizando React Native.
 4. Implementar práticas de DevOps com CI/CD para garantir a qualidade e confiabilidade do sistema.
 
-## **Próximos Passos**
-
-1. **Prototipação:** Finalizar os wireframes e a interface inicial no Figma para validação do design.
-2. **Desenvolvimento:** Iniciar a codificação da estrutura básica da aplicação.
-3. **Testes:** Planejar e executar testes funcionais e de usabilidade nas etapas iniciais.
-4. **Lançamento:** Realizar um soft launch com um público selecionado para validar o produto e coletar feedback.
-
 ## **Contribuição ao Mercado**
 
 Com a Impress Express, pretendemos oferecer uma solução inovadora que une criatividade e acessibilidade, permitindo que qualquer pessoa transforme suas ideias em realidade. Acreditamos que nossa plataforma se destacará pela simplicidade de uso, inovação tecnológica e compromisso com a sustentabilidade.
 
 ---
 
-Se precisar ajustar ou complementar algum ponto, avise!
+## **AV2**
+
+Para visualizar o trabalho AV2 sobre essa empresa, abra o arquivo PDS-AV2.md nesse mesmo GIT.
